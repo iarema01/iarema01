@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iaremaCarvalho
 - 👀 I’m interested in Rugby, Data Science, Oceanography;
-- 🌱 I’m currently learning Python, HTML ad Java language;
+- 🌱 I’m currently learning Python, HTML , CSS and Java language;
 
 
 <!---
